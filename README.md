@@ -1,5 +1,5 @@
 <a href="#">
-    <img src="https://github.com/DeyvidFleck/DeyvidFleck/blob/master/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/DeyvidFleck/DeyvidFleck/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
 :department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Systems Analyst.
@@ -32,16 +32,16 @@
     </p>
     <p align="center">
       <a href="https://github.com/DeyvidFleck/DeyvidFleck/issues">
-        <img src="https://img.shields.io/github/issues/lucasrmagalhaes/lucasrmagalhaes" title="issues" alt="issues" /> 
+        <img src="https://img.shields.io/github/issues/DeyvidFleck/DeyvidFleck" title="issues" alt="issues" /> 
       </a>
       <a href="https://github.com/DeyvidFleck/DeyvidFleck/network/members">
-        <img src="https://img.shields.io/github/forks/lucasrmagalhaes/lucasrmagalhaes" title="forks" alt="forks" /> 
+        <img src="https://img.shields.io/github/forks/DeyvidFleck/DeyvidFleck" title="forks" alt="forks" /> 
       </a>
       <a href="https://github.com/DeyvidFleck/DeyvidFleck/stargazers">
-        <img src="https://img.shields.io/github/stars/lucasrmagalhaes/lucasrmagalhaes" title="stars" alt="stars" /> 
+        <img src="https://img.shields.io/github/stars/DeyvidFleck/DeyvidFleck" title="stars" alt="stars" /> 
       </a>
        <a href="https://github.com/lDeyvidFleck/DeyvidFleck/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/lucasrmagalhaes/lucasrmagalhaes" title="license" alt="license" /> 
+        <img src="https://img.shields.io/github/license/DeyvidFleck/DeyvidFleck" title="license" alt="license" /> 
       </a>
     </p>
 </details>

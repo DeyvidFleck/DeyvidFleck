@@ -6,13 +6,13 @@
 <br />
 :heart: I'm passionate about tech, music, games and of course my family!
 <br />
-:speech_balloon: Ask me about anything <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">here.</a>
+:speech_balloon: Ask me about anything <a href="https://github.com/DeyvidFleck/DeyvidFleck/issues">here.</a>
 <br />
 :link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
 
-<img src="https://komarev.com/ghpvc/?username=lucasrmagalhaes&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=deyvidfleck&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
 
-<a href="mailto:lucasdarosa.ti@gmail.com">
+<a href="mailto:deyvidwenzel@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
 </a>
 

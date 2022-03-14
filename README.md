@@ -1,5 +1,5 @@
 <a href="#">
-    <img src="https://github.com/DeyvidFleck/DeyvidFleck/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/DeyvidFleck/DeyvidFleck/blob/master/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
 :department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Systems Analyst.
@@ -40,7 +40,7 @@
       <a href="https://github.com/DeyvidFleck/DeyvidFleck/stargazers">
         <img src="https://img.shields.io/github/stars/DeyvidFleck/DeyvidFleck" title="stars" alt="stars" /> 
       </a>
-       <a href="https://github.com/lDeyvidFleck/DeyvidFleck/blob/master/LICENSE">
+       <a href="https://github.com/DeyvidFleck/DeyvidFleck/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/DeyvidFleck/DeyvidFleck" title="license" alt="license" /> 
       </a>
     </p>

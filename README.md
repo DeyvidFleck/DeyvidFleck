@@ -16,31 +16,31 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
 </a>
 
-<a href="https://www.linkedin.com/in/lucasrmagalhaes/">
+<a href="https://br.linkedin.com/in/deyvid-wenzel-fleck-a0a256a2">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
-<details title="Lucas Magalhães's Trophies">
+<details title="Deyvid Fleck's Trophies">
     <br />
-    <summary align="left"><strong><i>Lucas Magalhães's Trophies</i></strong> 🏆</summary>
+    <summary align="left"><strong><i>Deyvid Fleck's Trophies</i></strong> 🏆</summary>
     <p align="center">
         <img 
-             src="https://github-profile-trophy.vercel.app/?username=lucasrmagalhaes&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
+             src="https://github-profile-trophy.vercel.app/?username=DeyvidFleck&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
              width="60%"
-             title="Lucas Magalhães's Trophies"
+             title="Deyvid Fleck's Trophies"
         />
     </p>
     <p align="center">
-      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/issues">
+      <a href="https://github.com/DeyvidFleck/DeyvidFleck/issues">
         <img src="https://img.shields.io/github/issues/lucasrmagalhaes/lucasrmagalhaes" title="issues" alt="issues" /> 
       </a>
-      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/network/members">
+      <a href="https://github.com/DeyvidFleck/DeyvidFleck/network/members">
         <img src="https://img.shields.io/github/forks/lucasrmagalhaes/lucasrmagalhaes" title="forks" alt="forks" /> 
       </a>
-      <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/stargazers">
+      <a href="https://github.com/DeyvidFleck/DeyvidFleck/stargazers">
         <img src="https://img.shields.io/github/stars/lucasrmagalhaes/lucasrmagalhaes" title="stars" alt="stars" /> 
       </a>
-       <a href="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/LICENSE">
+       <a href="https://github.com/lDeyvidFleck/DeyvidFleck/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/lucasrmagalhaes/lucasrmagalhaes" title="license" alt="license" /> 
       </a>
     </p>

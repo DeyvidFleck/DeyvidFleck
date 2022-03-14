@@ -1,5 +1,5 @@
 <a href="#">
-    <img src="https://github.com/DeyvidFleck/DeyvidFleck/blob/master/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/DeyvidFleck/DeyvidFleck/blob/main/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
 :department_store: I'm currently working on <a href="https://www.oabrs.org.br/">OAB/RS</a> as Systems Analyst.

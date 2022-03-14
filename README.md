@@ -8,7 +8,7 @@
 <br />
 :speech_balloon: Ask me about anything <a href="https://github.com/DeyvidFleck/DeyvidFleck/issues">here.</a>
 <br />
-:link: <a href="https://linktr.ee/lucasrmagalhaes">My Social Networks.</a>
+:link: <a href="https://linktr.ee/deyvidfleck">My Social Networks.</a>
 
 <img src="https://komarev.com/ghpvc/?username=deyvidfleck&label=Profile%20views&color=0e75b6&style=flat-square&color=yellow" title="Profile views" align="right" alt="Profile views" />
 
